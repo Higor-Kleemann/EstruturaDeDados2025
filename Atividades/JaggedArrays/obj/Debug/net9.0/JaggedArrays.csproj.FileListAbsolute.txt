@@ -1,0 +1,15 @@
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.exe
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.deps.json
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.runtimeconfig.json
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.dll
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.pdb
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfo.cs
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.sourcelink.json
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.dll
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\refint\JaggedArrays.dll
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.pdb
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.genruntimeconfig.cache
+C:\Estrutura de Dados\2025\Atividades\JaggedArrays\obj\Debug\net9.0\ref\JaggedArrays.dll
