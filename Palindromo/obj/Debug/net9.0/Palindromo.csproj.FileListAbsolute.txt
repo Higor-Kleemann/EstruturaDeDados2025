@@ -1,0 +1,14 @@
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.AssemblyInfo.cs
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\bin\Debug\net9.0\Palindromo.exe
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\bin\Debug\net9.0\Palindromo.deps.json
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\bin\Debug\net9.0\Palindromo.runtimeconfig.json
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\bin\Debug\net9.0\Palindromo.dll
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\bin\Debug\net9.0\Palindromo.pdb
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.dll
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\refint\Palindromo.dll
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.pdb
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\Palindromo.genruntimeconfig.cache
+C:\Users\356830\Desktop\Estrutura de Dados\Palindromo\obj\Debug\net9.0\ref\Palindromo.dll
