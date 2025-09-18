@@ -1,0 +1,15 @@
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\bin\Debug\net9.0\Trees2.exe
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\bin\Debug\net9.0\Trees2.deps.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\bin\Debug\net9.0\Trees2.runtimeconfig.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\bin\Debug\net9.0\Trees2.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\bin\Debug\net9.0\Trees2.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.AssemblyInfoInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.AssemblyInfo.cs
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.csproj.CoreCompileInputs.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.sourcelink.json
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\refint\Trees2.dll
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.pdb
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\Trees2.genruntimeconfig.cache
+C:\Users\MJ Soluções\Desktop\estrutura_de_dados\Atividades\Trees2\obj\Debug\net9.0\ref\Trees2.dll
