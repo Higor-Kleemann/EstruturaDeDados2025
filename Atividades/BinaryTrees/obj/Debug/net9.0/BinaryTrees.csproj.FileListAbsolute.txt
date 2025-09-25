@@ -1,0 +1,14 @@
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\bin\Debug\net9.0\BinaryTrees.exe
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\bin\Debug\net9.0\BinaryTrees.deps.json
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\bin\Debug\net9.0\BinaryTrees.runtimeconfig.json
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\bin\Debug\net9.0\BinaryTrees.dll
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\bin\Debug\net9.0\BinaryTrees.pdb
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.AssemblyInfoInputs.cache
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.AssemblyInfo.cs
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.dll
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\refint\BinaryTrees.dll
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.pdb
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\BinaryTrees.genruntimeconfig.cache
+C:\Users\356830\Desktop\EstruturaDeDados\BinaryTrees\obj\Debug\net9.0\ref\BinaryTrees.dll
