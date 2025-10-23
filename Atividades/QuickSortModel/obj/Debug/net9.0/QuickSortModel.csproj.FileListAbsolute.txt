@@ -1,0 +1,14 @@
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.AssemblyInfoInputs.cache
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.AssemblyInfo.cs
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.csproj.CoreCompileInputs.cache
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\bin\Debug\net9.0\QuickSortModel.exe
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\bin\Debug\net9.0\QuickSortModel.deps.json
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\bin\Debug\net9.0\QuickSortModel.runtimeconfig.json
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\bin\Debug\net9.0\QuickSortModel.dll
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\bin\Debug\net9.0\QuickSortModel.pdb
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.dll
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\refint\QuickSortModel.dll
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.pdb
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\QuickSortModel.genruntimeconfig.cache
+C:\Users\356830\Desktop\Nova pasta\QuickSortModel\obj\Debug\net9.0\ref\QuickSortModel.dll
