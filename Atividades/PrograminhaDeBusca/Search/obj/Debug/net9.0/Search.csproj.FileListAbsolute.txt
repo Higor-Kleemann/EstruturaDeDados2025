@@ -1,0 +1,14 @@
+C:\Users\356830\Desktop\Programinha\Search\bin\Debug\net9.0\Search.exe
+C:\Users\356830\Desktop\Programinha\Search\bin\Debug\net9.0\Search.deps.json
+C:\Users\356830\Desktop\Programinha\Search\bin\Debug\net9.0\Search.runtimeconfig.json
+C:\Users\356830\Desktop\Programinha\Search\bin\Debug\net9.0\Search.dll
+C:\Users\356830\Desktop\Programinha\Search\bin\Debug\net9.0\Search.pdb
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.AssemblyInfoInputs.cache
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.AssemblyInfo.cs
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.csproj.CoreCompileInputs.cache
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.dll
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\refint\Search.dll
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.pdb
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\Search.genruntimeconfig.cache
+C:\Users\356830\Desktop\Programinha\Search\obj\Debug\net9.0\ref\Search.dll
